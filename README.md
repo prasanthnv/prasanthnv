@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning **Flutter and Golang**
 - 👯 I’m open to collaborating on **Open Source and Fullstack projects**
 
-### 📈 GitHub Stats
 ![Prasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthnv&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthnv&layout=compact)
