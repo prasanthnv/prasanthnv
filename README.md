@@ -1,5 +1,3 @@
 # Hi 👋, I'm Prasanth Venugopal
 
-- 🔭 I’m currently working on **Flutter desktop apps and backend development with NestJS/GraphQL**
-- 🌱 I’m currently learning **Flutter and Rust**
-- 👯 I’m open to collaborating on **Open Source and Fullstack projects**
+Senior Full-Stack Developer with over 12 years of experience crafting scalable web and mobile applications for both international and domestic clients. I specialize in building robust frontend and backend solutions using JavaScript, TypeScript, React, Angular, Vue, Node.js, and NestJS.
